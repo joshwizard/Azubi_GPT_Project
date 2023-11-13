@@ -9,7 +9,7 @@
 Azubi_GPT_Chatbot is a simple python chatbot powered by Tkinter GUI with AWS DynamoDB database backing. 
 
 ### Collaborations
-This is a hand-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training, we got a chance to work on some realife cloud projects. 
+This is a hands-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training, we got a chance to work on some realife cloud projects. 
 I was able to work with:
  1. Kwadwo Fosu Appiah
  2. Jean-Pierre Gbedjissi

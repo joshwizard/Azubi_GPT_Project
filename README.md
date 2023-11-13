@@ -4,7 +4,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-Azubi_GPT_Chabot
+##Azubi_GPT_Chabot
 
 There are many great README templates available on GitHub; We will use this to document everything that we did in this project. some other resources are: [joshseven](https://github.com/joshseven/Cloud-portfolio), 
 

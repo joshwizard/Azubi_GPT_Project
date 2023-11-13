@@ -4,22 +4,16 @@
 
 
 <!-- ABOUT THE PROJECT -->
-##Azubi_GPT_Chabot
+## Azubi_GPT_Chabot
 
-There are many great README templates available on GitHub; We will use this to document everything that we did in this project. some other resources are: [joshseven](https://github.com/joshseven/Cloud-portfolio), 
-
-What to note down:
-* Did you work with anyone, note that
-* What was the problem you were trying to tackle & how did you go about finding your solution
-* any challenges you faced and how did you solve them
+Azubi_GPT_Chatbot is a simple python chatbot powered by Tkinter GUI with AWS DynamoDB database backing. 
 
 ### Collaborations
-This is a hand-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training and front-end development, we got a chance to work on some realife cloud projects. 
+This is a hand-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training, we got a chance to work on some realife cloud projects. 
 I was able to work with:
- 1. William Mukoyani [@their_linkedin](https://www.linkedin.com/in/william-j-mukoyani)
- 2. Esther Awudu [@their_linkedin](https://www.linkedin.com/in/esther-awudu-33690320b/)
- 3. Thelma Laryea [@their_linkedin](https://www.linkedin.com/in/thelma-laryea-73a49b1b4/)
- 4. Sampson Boamah [@their_linkedin](https://www.linkedin.com/in/sampson-boamah-b3629a114/)
+ 1. Kwadwo Fosu Appiah
+ 2. Jean-Pierre Gbedjissi
+
 ##
 ### Project Overview
 ```sh

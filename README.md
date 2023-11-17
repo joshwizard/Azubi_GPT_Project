@@ -17,10 +17,12 @@ I was able to work with:
 ##
 ### Project Overview
 ```sh
-   Todo and technologies
-1. Use AWS s3 (cloud storage service)
-2. Upload your files to AWS s3
-3. Launch a sample webapp
+Technologies
+1. Python Programming Language
+2. Tkinter (User Graphic Interface)
+3. Boto3 Library
+4. AWS DynamoDB
+5. Terraform
 
 ```
 
